@@ -1,2 +1,2 @@
-# har477.github.io
+# Harut Arshakyan
 my first repository
