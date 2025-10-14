@@ -1,0 +1,11 @@
+.video {
+  height: 1px;
+  width: 79px;
+  color: red;
+}
+.video .span {
+  display: block;
+}
+.video {
+  background-color: red;
+}
