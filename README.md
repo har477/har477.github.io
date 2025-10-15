@@ -1,4 +1,4 @@
 # Harut Arshakyan
 my first repository
 
-(https://har477.github.io/first%20site/)
+[link 1](https://har477.github.io/first%20site/ "first site")
